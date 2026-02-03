@@ -1,0 +1,1 @@
+add tailscale auth key
