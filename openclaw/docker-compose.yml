@@ -6,7 +6,7 @@ services:
     # Host networking allows easiest discovery of local devices
     network_mode: host
     environment:
-      - OPENCLAW_TOKEN=change-me-to-secure-token
+      - OPENCLAW_TOKEN=019c2865-c555-7a71-8654-08d4851cfb88
       # Optional: Set timezone so logs match your wall clock
       - TZ=Asia/Calcutta
     volumes:
